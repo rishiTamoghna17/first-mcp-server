@@ -11,16 +11,8 @@
     "question": "What transport protocols are supported?",
     "answer": "The server supports both stdio and SSE (Server-Sent Events) transport protocols."
   },
-    {
-        "question": "What is the purpose of the 'mcp' command?",
-        "answer": "The 'mcp' command is used to start the MCP server, which listens for requests from AI assistants."
-    },
-    {
-        "question": "How can I use the calculator tool in MCP?",
-        "answer": "You can use the calculator tool by sending a request with the operation you want to perform, such as 'add' or 'subtract'."
-    },
-    {
-        "question": "What is the default transport protocol for MCP?",
-        "answer": "The default transport protocol for MCP is stdio, but it can also be configured to use SSE."
-    }
+  {
+    "question": "What is the default transport protocol for MCP?",
+    "answer": "The default transport protocol for MCP is stdio (standard input/output)."
+}
 ]
